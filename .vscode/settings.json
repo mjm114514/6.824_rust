@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.rulers": [
+      80
+    ],
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+}

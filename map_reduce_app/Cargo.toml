@@ -1,0 +1,11 @@
+[package]
+name = "map_reduce_app"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = [ "rlib", "dylib" ]
+
+[dependencies]
+mr_utils = { path = "../mr_utils" }

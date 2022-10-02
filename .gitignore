@@ -1,0 +1,4 @@
+/target
+map_reduce_app/target
+mr-out-0
+.DS_Store
